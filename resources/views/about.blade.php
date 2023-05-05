@@ -53,62 +53,31 @@
                 </div>
             </div>
         </div>
-        <section class="clean-block clean-services dark" style="text-align: center;margin-top: 20px;padding-bottom: 20px;background: rgb(255,255,255);">
+	</section>
+	<section class="clean-block clean-services dark" style="text-align: center;margin-top: 20px;padding-bottom: 20px;background: rgb(255,255,255);">
             <div class="container" style="border-radius: 8px;align-items: center;border: 5px solid rgb(24,37,144);">
                 <div class="row">
                     <div class="col-md-12" style="background: rgb(24,37,144);">
                         <h4 style="color: rgb(255,255,255);padding-top: 5px;padding-bottom: 5px;font-weight: bold;">What’s the Treatment Like?</h4>
                     </div>
                     <div class="col">
-                        <p style="margin-bottom: 0px;">Scalp micropigmentation, in short, known as SMP, is an innovative non-invasive solution to hair loss problems. SMP treats hair loss by creating an illusion of hair follicles using a unique formula of organic pigment and micro-needles. These dots are designed to replicate the appearance of natural hair where you are experiencing loss. While the process does use a procedure similar to tattooing, it’s important to note these two methods are very different, and SMP requires the skill of a specifically trained SMP artist. This process can produce results for both men and women.</p>
+                        <p style="margin-bottom: 0px;margin-top: 20px">Scalp micropigmentation, in short, known as SMP, is an innovative non-invasive solution to hair loss problems. SMP treats hair loss by creating an illusion of hair follicles using a unique formula of organic pigment and micro-needles. These dots are designed to replicate the appearance of natural hair where you are experiencing loss. While the process does use a procedure similar to tattooing, it’s important to note these two methods are very different, and SMP requires the skill of a specifically trained SMP artist. This process can produce results for both men and women.</p>
                         <section class="py-4 py-xl-5">
                             <div class="container">
-
-
-<div ID="blade-smp-insta" data-nanogallery2='{
-        "itemsBaseURL": "https://bladesmp.ca",
-        "thumbnailWidth": "350",
-        "thumbnailHeight": "350",
-        "thumbnailBorderVertical": 0,
-        "thumbnailBorderHorizontal": 0,
-        "colorScheme": {
-          "thumbnail": {
-            "borderColor": "rgba(24,37,144,1)"
-          }
-        },
-        "thumbnailLabel": {
-          "position": "overImageOnBottom",
-          "display": false
-        },
-        "thumbnailHoverEffect2": "scale120",
-        "thumbnailAlignment": "center",
-        "thumbnailGutterWidth": 10,
-        "thumbnailGutterHeight": 10,
-        "displayBreadcrumb": false,
-        "breadcrumbAutoHideTopLevel": false,
-        "breadcrumbOnlyCurrentLevel": false,
-        "thumbnailOpenImage": true
-      }'>
-      <a href="/static/gallery/1.jpg" data-ngthumb="/static/gallery/1.jpg" data-ngdesc="Description 1">Image 1</a>
-      <a href="/static/gallery/2.jpg" data-ngthumb="/static/gallery/2.jpg" data-ngdesc="Description 2">Image 2</a>
-      <a href="/static/gallery/3.jpg" data-ngthumb="/static/gallery/3.jpg" data-ngdesc="Description 3">Image 3</a>
-      <a href="/static/gallery/4.jpg" data-ngthumb="/static/gallery/4.jpg" data-ngdesc="Description 4">Image 4</a>
-      <a href="/static/gallery/6.jpg" data-ngthumb="/static/gallery/6.jpg" data-ngdesc="Description 6">Image 6</a>
-      <a href="/static/gallery/5.jpg" data-ngthumb="/static/gallery/5.jpg" data-ngdesc="Description 5">Image 5</a>
-
-    </div>
-
-
-
-
-
+                                <div class="row gx-2 gy-2 row-cols-1 row-cols-md-2 row-cols-xl-3" data-bss-baguettebox="">
+                                    <div class="col"><a href="assets/img/about-blade-smp-gallery-01.jpg"><img alt="scalp micropigmentation treatment one" class="img-fluid" src="assets/img/about-blade-smp-gallery-01.jpg"></a></div>
+                                    <div class="col"><a href="assets/img/about-blade-smp-gallery-03.jpg"><img alt="scalp micropigmentation treatment two" class="img-fluid" src="assets/img/about-blade-smp-gallery-03.jpg"></a></div>
+                                    <div class="col"><a href="assets/img/about-blade-smp-gallery-02.jpg"><img alt="scalp micropigmentation treatment three" class="img-fluid" src="assets/img/about-blade-smp-gallery-02.jpg"></a></div>
+                                    <div class="col"><a href="assets/img/about-blade-smp-gallery-06.jpg"><img alt="scalp micropigmentation treatment four" class="img-fluid" src="assets/img/about-blade-smp-gallery-06.jpg"></a></div>
+                                    <div class="col"><a href="assets/img/about-blade-smp-gallery-04.jpg"><img alt="scalp micropigmentation treatment five" class="img-fluid" src="assets/img/about-blade-smp-gallery-04.jpg"></a></div>
+                                    <div class="col"><a href="assets/img/about-blade-smp-gallery-05.jpg"><img alt="scalp micropigmentation treatment six" class="img-fluid" src="assets/img/about-blade-smp-gallery-05.jpg"></a></div>
+                                </div>
                             </div>
                         </section>
                     </div>
                 </div>
             </div>
-        </section>
-    </section>
+	</section>    
 @include('page-footer')
 @include('page-footer-js')
 </body>
