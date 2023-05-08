@@ -25,7 +25,7 @@ Route::get('instagram-get-test', [InstagramAuthController::class, 'test']);
 Route::get('instagram-get-auth', [InstagramAuthController::class, 'show']);
 Route::get('instagram-auth-response', [InstagramAuthController::class, 'complete']);
 
-Route::view('home','home',[
+Route::view('/','home',[
 	'title' => 'BladeSMP - Scalp Micropigmentation (SMP) - Home',
 	'description' => 'Scalp Micropigmentation downtown Toronto with a welcoming, fun &amp; personable environment. Using SMP too produce amazing results for both men and women.',
 ]);
