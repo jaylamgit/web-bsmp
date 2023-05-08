@@ -25,18 +25,20 @@ Route::get('instagram-get-test', [InstagramAuthController::class, 'test']);
 Route::get('instagram-get-auth', [InstagramAuthController::class, 'show']);
 Route::get('instagram-auth-response', [InstagramAuthController::class, 'complete']);
 
+Route::view('home','home',[
+	'title' => 'BladeSMP - Scalp Micropigmentation (SMP) - Home',
+	'description' => 'Scalp Micropigmentation downtown Toronto with a welcoming, fun &amp; personable environment. Using SMP too produce amazing results for both men and women.',
+]);
 
-Route::get('/', function () {
-    return view('home');
-})->name('home');
+Route::view('/about-us','about',[
+	'title' => 'About Blade Scalp Micropigmentation (SMP)',
+	'description' => 'Scalp micropigmentation, in short, known as SMP or Hair Tattoo, is an innovative non-invasive solution to hair loss problems.',
+]);
 
-Route::get('/about-us', function () {
-    return view('about');
-})->name('about');
-
-Route::get('/services', function () {
-    return view('services');
-})->name('services');
+Route::view('/services','services',[
+	'title' => 'Services at Blade Scalp Micropigmentation (SMP)',
+	'description' => 'We recognize that each patient is unique. From your hairline to the specific blending of pigments and needles, we custom-tailor each hair loss treatment.',
+]);
 
 Route::view('/gallery','gallery',[
         'title' => 'Gallery',
