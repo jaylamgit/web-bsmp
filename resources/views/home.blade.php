@@ -24,18 +24,32 @@
                                 <p>SMP is the procedure of creating follicle replications using specialized tools and techniques to deposit organic pigment into the scalp. While the process does use a procedure similar to tattooing, it’s important to note, these 2 methods are very different, SMP does requires the skill of a specifically trained SMP artist. </p>
                                 <p class="text-muted" style="font-weight: bold;">SMP can produce results for both men and women and will increase your confidence with long-lasting results. </p>
                                 <p style="--bs-danger: #dc3545;--bs-danger-rgb: 220,53,69;--bs-primary: #dc3545;--bs-primary-rgb: 220,53,69;">The procedure is typically completed in three to four session and is the only hair loss remedy/hair loss solution with a guaranteed result. It is also the most cost-effective treatment when compared to hair transplants, hair units, and PRP treatments.&nbsp;</p>
-                                <p class="text-muted" style="font-weight: bold;">SMP also requires NO DOWNTIME. </p><a href="https://bladebeauty.ca/booking/" target="_blank"><button class="btn btn-danger" type="button" style="padding-top: 12px;padding-right: 18px;padding-bottom: 12px;padding-left: 18px;font-size: 18px;margin-bottom: 18px;">Book An Appointment Today</button></a>
+                                <p class="text-muted" style="font-weight: bold;">SMP also requires NO DOWNTIME.</p><a href="https://bladebeauty.ca/booking/" target="_blank"><button class="btn btn-danger" type="button" style="padding-top: 12px;padding-right: 18px;padding-bottom: 12px;padding-left: 18px;font-size: 18px;margin-top: 30px;margin-bottom: 30px;margin-right: 10px;text-align: center;"><i class="icon-calendar" style="font-size: 20px;"></i>Book Online</button></a><a href="tel:1-416-531-0111"><button class="btn btn-danger" type="button" style="padding-top: 12px;padding-right: 18px;padding-bottom: 12px;padding-left: 18px;font-size: 18px;margin-top: 30px;margin-bottom: 30px;text-align: center;"><i class="icon-screen-smartphone" style="font-size: 20px;"></i>1-416-531-0111</button></a>
                             </div>
                         </div>
                     </div>
                 </section>
             </div>
         </section>
-
-
-
-
-
+		<section class="clean-block clean-services dark" style="text-align: center;margin-top: 20px;padding-bottom: 20px;background: rgb(255,255,255);padding-top: 20px;margin-right: 38px;margin-left: 38px;">
+            <div class="container" style="border-radius: 8px;align-items: center;border: 5px solid rgb(24,37,144);">
+                <div class="row">
+                    <div class="col-md-12" style="background: rgb(24,37,144);margin-bottom: 12px;">
+                        <h4 style="color: rgb(255,255,255);padding-top: 5px;padding-bottom: 5px;font-weight: bold;">What To Expect</h4>
+                    </div>
+                </div>
+                <div class="row" style="align-items: center;">
+                    <div class="col-md-12 col-lg-12 col-xxl-12">
+                        <p>SMP is typically done in 2- 4 sessions (appointments) as it is a layering process with each session serving its purpose. </p>
+                        <p>The first session is usually the longest and typically takes 3 to 5 hours. This treatment is where we will design your hairline, determine your pigment colour and set a base laying the foundation of replicated hair follicles. </p>
+                        <p>The second session typically takes 2 to 4 hours. This is where we will begin to add density and blend the SMP into your existing hair for a natural look. We can also make any adjustments to the hairline that may be required. </p>
+                        <p>The third session typically takes 1 to 3 hours. On this treatment we will tie up any loose ends to make sure that your SMP blends seamless and is undetectable with a 3D effect. </p>
+                        <p>We do recognize that each patient is uniquely different. From the shape of your hairline to the specific blending of pigments and needles, we custom-tailor each hair loss treatment. </p>
+                        <p class="text-muted" style="font-style: italic;"><strong><span style="font-style: normal !important;">After each treatment, our practitioner will provide you with aftercare to take home and instructions to follow. </span></strong></p>
+                    </div>
+                </div>
+            </div>
+        </section>
         <section class="clean-block clean-services dark" style="text-align: center;margin-top: 20px;padding-bottom: 20px;background: rgb(246, 246, 246);padding-top: 30px;">
             <div class="container" style="border-radius: 8px;align-items: center;border: 5px solid rgb(24,37,144);">
                 <div class="row">
