@@ -53,6 +53,16 @@
                 </div>
             </div>
         </section>
+		<section class="clean-block clean-services dark" style="text-align: center;margin-top: 20px;padding-bottom: 20px;background: rgb(255,255,255);">
+            <div class="container" style="border-radius: 8px;align-items: center;padding-bottom: 20px;border: 5px solid rgb(24,37,144);">
+                <div class="row">
+                    <div class="col-md-12" style="background: rgb(24,37,144);margin-bottom: 12px;">
+                        <h4 style="color: rgb(255,255,255);padding-top: 5px;padding-bottom: 5px;font-weight: bold;">Direct Message bladeSMP on Insta</h4>
+                    </div>
+                    <div class="col"><a class="link-danger" href="https://www.instagram.com/blade.smp/" target="_blank" style="font-weight: bold;">@blade.smp</a></div>
+                </div>
+            </div>
+        </section>
 	{{-- Google Maps --}}
         <section class="clean-block clean-services dark" style="text-align: center;margin-top: 20px;padding-bottom: 20px;background: rgb(255,255,255);">
             <div class="container" style="align-items: center;padding-bottom: 20px;border-radius: 8px;border: 5px solid rgb(24,37,144);">

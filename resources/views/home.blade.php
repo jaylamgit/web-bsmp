@@ -31,26 +31,47 @@
                 </section>
             </div>
         </section>
-		<section class="clean-block clean-services dark" style="text-align: center;margin-top: 20px;padding-bottom: 20px;background: rgb(255,255,255);padding-top: 20px;margin-right: 38px;margin-left: 38px;">
+		<section class="clean-block clean-services dark" style="text-align: center;margin-top: 20px;padding-bottom: 20px;background: rgb(255,255,255);">
             <div class="container" style="border-radius: 8px;align-items: center;border: 5px solid rgb(24,37,144);">
                 <div class="row">
-                    <div class="col-md-12" style="background: rgb(24,37,144);margin-bottom: 12px;">
-                        <h4 style="color: rgb(255,255,255);padding-top: 5px;padding-bottom: 5px;font-weight: bold;">What To Expect</h4>
+                    <div class="col-md-12" style="background: rgb(24,37,144);">
+                        <h4 style="color: rgb(255,255,255);padding-top: 5px;padding-bottom: 5px;font-weight: bold;">How does the Treatment Work?</h4>
                     </div>
-                </div>
-                <div class="row" style="align-items: center;">
-                    <div class="col-md-12 col-lg-12 col-xxl-12">
-                        <p>SMP is typically done in 2- 4 sessions (appointments) as it is a layering process with each session serving its purpose. </p>
-                        <p>The first session is usually the longest and typically takes 3 to 5 hours. This treatment is where we will design your hairline, determine your pigment colour and set a base laying the foundation of replicated hair follicles. </p>
-                        <p>The second session typically takes 2 to 4 hours. This is where we will begin to add density and blend the SMP into your existing hair for a natural look. We can also make any adjustments to the hairline that may be required. </p>
-                        <p>The third session typically takes 1 to 3 hours. On this treatment we will tie up any loose ends to make sure that your SMP blends seamless and is undetectable with a 3D effect. </p>
-                        <p>We do recognize that each patient is uniquely different. From the shape of your hairline to the specific blending of pigments and needles, we custom-tailor each hair loss treatment. </p>
-                        <p class="text-muted" style="font-style: italic;"><strong><span style="font-style: normal !important;">After each treatment, our practitioner will provide you with aftercare to take home and instructions to follow. </span></strong></p>
+                    <div class="col">
+                        <p style="margin-bottom: 0px;margin-top: 20px">SMP treats hair loss by creating an illusion of hair follicles using a unique formula of organic pigment and micro-needles. These dots are designed to replicate the appearance of natural hair where you are experiencing loss. While the process does use a procedure similar to tattooing, it’s important to note these two methods are very different. SMP requires the skill of a specifically trained Scalp Micropigmentation artist.</p>
+                        <section class="py-4 py-xl-5">				
+								<div ID="blade-smp-home" data-nanogallery2='{
+									"itemsBaseURL": "https://bladesmp.ca/static/img/",
+									"thumbnailWidth": "auto",
+									"thumbnailHeight": "300",
+									"thumbnailBorderVertical": 0,
+									"thumbnailBorderHorizontal": 4,
+									"colorScheme": {
+									  "thumbnail": {
+										"borderColor": "rgba(255,255,255,1)"
+									  }
+									},
+									"thumbnailLabel": {
+									  "position": "overImageOnBottom",
+									  "display": false
+									},
+									"thumbnailHoverEffect2": "imageScaleIn80",
+									"thumbnailAlignment": "center",
+									"thumbnailOpenImage": true
+								  }'>
+									<a href="about-blade-smp-gallery-01.jpg" data-ngthumb="about-blade-smp-gallery-01.jpg" data-ngdesc="How does SMP Work">How does SMP Work</a>
+									<a href="about-blade-smp-gallery-03.jpg" data-ngthumb="about-blade-smp-gallery-03.jpg" data-ngdesc="How does SMP Work">How does SMP Work</a>	
+									<a href="about-blade-smp-gallery-02.jpg" data-ngthumb="about-blade-smp-gallery-02.jpg" data-ngdesc="How does SMP Work">How does SMP Work</a>
+									<a href="about-blade-smp-gallery-06.jpg" data-ngthumb="about-blade-smp-gallery-06.jpg" data-ngdesc="How does SMP Work">How does SMP Work</a>
+									<a href="about-blade-smp-gallery-04.jpg" data-ngthumb="about-blade-smp-gallery-04.jpg" data-ngdesc="How does SMP Work">How does SMP Work</a>
+									<a href="about-blade-smp-gallery-05.jpg" data-ngthumb="about-blade-smp-gallery-05.jpg" data-ngdesc="How does SMP Work">How does SMP Work</a>
+								</div>  
+                        </section>
                     </div>
                 </div>
             </div>
-        </section>
-        <section class="clean-block clean-services dark" style="text-align: center;margin-top: 20px;padding-bottom: 20px;background: rgb(246, 246, 246);padding-top: 30px;">
+		</section> 
+        <section class="clean-block clean-services dark" style="text-align: center;margin-top: 20px;padding-bottom: 20px;background: rgb(246, 246, 246);padding-top: 20px;">
             <div class="container" style="border-radius: 8px;align-items: center;border: 5px solid rgb(24,37,144);">
                 <div class="row">
                     <div class="col-md-12" style="background: rgb(24,37,144);border-radius: 0;margin-bottom: 12px;">
@@ -106,10 +127,6 @@
                 </div>
             </div>
         </section>
-
-
-
-
     </main>	
 @include('page-footer')
 @include('page-footer-js')

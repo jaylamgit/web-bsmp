@@ -1,4 +1,4 @@
-<form action="" method="post" action="{{ route('contact.store') }}">
+<form id="bladesmp-form" action="" method="post" action="{{ route('contact.store') }}">
     @csrf
     <div class="mb-3 form-group">
         <label>Name (Required)</label>
@@ -48,7 +48,9 @@
         </div>
         @endif
     </div>
-    <div class="mb-3 form-group">
+	<div align="center" class="g-recaptcha" data-sitekey="6Le_BhAmAAAAAGRvGuHTo2avAW_5V8eCl4d3Skv3"></div><br>
+	<div class="mb-3 form-group">
 	    <input type="submit" name="send" value="Submit" class="btn btn-danger btn-block">
     </div>
 </form>
+
