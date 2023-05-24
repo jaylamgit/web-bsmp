@@ -4,34 +4,32 @@
 	{{-- load nav --}}
 	@include('page-nav')
 	<main class="page landing-page">
-        <section class="text-center clean-block clean-info dark" style="padding-bottom: 20px;background: rgb(246, 246, 246);">
-            <div class="container">
-                <div class="block-heading" style="margin-bottom: 20px;">
-                    <section></section>
-                </div>
-                <div style="height: 600px;background: url(&quot;{{ asset('/static/img/blade-smp-home-ashley.jpg') }}&quot;) center / cover;border-radius: 8px;"></div>
-
-                <section class="clean-block clean-services dark" style="text-align: center;margin-top: 20px;padding-bottom: 20px;background: rgb(246,246,246);">
-                    <div class="container" style="border-radius: 8px;align-items: center;border: 5px solid rgb(24,37,144);">
-                        <div class="row">
-                            <div class="col-md-12" style="background: rgb(24,37,144);border-radius: 0;">
-                                <h4 style="color: rgb(255,255,255);padding-top: 5px;padding-bottom: 5px;font-weight: bold;">Blade Scalp Micropigmentation</h4>
-                            </div>
-                        </div>
-                        <div class="row" style="align-items: center;">
-                            <div class="col-md-6 col-xxl-12" style="vertical-align: middle;width: 100%;border-radius: 0;">
-                                <h5 style="font-weight: bold;color: rgb(24,37,144);margin-top: 18px;">Scalp Micropigmentation (SMP), or Hair Tattoo, is an Innovative Non-Invasive Solution to Hair Loss Problems.</h5>
-                                <p>SMP is the procedure of creating follicle replications using specialized tools and techniques to deposit organic pigment into the scalp. While the process does use a procedure similar to tattooing, it’s important to note, these 2 methods are very different, SMP does requires the skill of a specifically trained SMP artist. </p>
-                                <p class="text-muted" style="font-weight: bold;">SMP can produce results for both men and women and will increase your confidence with long-lasting results. </p>
-                                <p style="--bs-danger: #dc3545;--bs-danger-rgb: 220,53,69;--bs-primary: #dc3545;--bs-primary-rgb: 220,53,69;">The procedure is typically completed in three to four session and is the only hair loss remedy/hair loss solution with a guaranteed result. It is also the most cost-effective treatment when compared to hair transplants, hair units, and PRP treatments.&nbsp;</p>
-                                <p class="text-muted" style="font-weight: bold;">SMP also requires NO DOWNTIME.</p><a href="https://bladebeauty.ca/booking/" target="_blank"><button class="btn btn-danger" type="button" style="padding-top: 12px;padding-right: 18px;padding-bottom: 12px;padding-left: 18px;font-size: 18px;margin-top: 30px;margin-bottom: 30px;margin-right: 10px;text-align: center;"><i class="icon-calendar" style="font-size: 20px;"></i>Book Online</button></a><a href="tel:1-416-531-0111"><button class="btn btn-danger" type="button" style="padding-top: 12px;padding-right: 18px;padding-bottom: 12px;padding-left: 18px;font-size: 18px;margin-top: 30px;margin-bottom: 30px;text-align: center;"><i class="icon-screen-smartphone" style="font-size: 20px;"></i>1-416-531-0111</button></a>
-                            </div>
-                        </div>
+        <section class="clean-block clean-services dark" style="text-align: center;padding-bottom: 20px;background: rgb(246, 246, 246);padding-top: 30px;margin-top: 30px;">
+            <div class="container" style="border-radius: 8px;align-items: center;border: 5px none rgb(24,37,144);">
+                <div class="row" style="align-items: center;">
+                    <div class="col-md-12 col-lg-12 col-xxl-12" style="padding-bottom: 20px;">
+						<div style="height: 600px;background: url(&quot;{{ asset('/static/img/blade-smp-home-ashley.jpg') }}&quot;) center / cover;border-radius: 8px;">
                     </div>
-                </section>
+                </div>
+            </div>
+            <div class="container" style="border-radius: 8px;align-items: center;border: 5px solid rgb(24,37,144);">
+                <div class="row">
+                    <div class="col-md-12" style="background: rgb(24,37,144);border-radius: 0;margin-bottom: 12px;">
+                        <h4 style="color: rgb(255,255,255);padding-top: 5px;padding-bottom: 5px;font-weight: bold;">Blade Scalp Micropigmentation</h4>
+                    </div>
+                </div>
+                <div class="row" style="align-items: center;">
+                    <div class="col-md-12 col-lg-12 col-xxl-12" style="padding-bottom: 20px;">
+                        <h5 style="font-weight: bold;color: rgb(24,37,144);margin-top: 18px;text-align: center;">Scalp Micropigmentation (SMP), or Hair Tattoo, is an Innovative Non-Invasive Solution to Hair Loss Problems.</h5>
+                        <p style="text-align: center;">SMP is the procedure of creating follicle replications using specialized tools and techniques to deposit organic pigment into the scalp. While the process does use a procedure similar to tattooing, it’s important to note, these 2 methods are very different, SMP does requires the skill of a specifically trained SMP artist. </p>
+                        <p class="text-muted" style="font-weight: bold;text-align: center;">SMP can produce results for both men and women and will increase your confidence with long-lasting results. </p>
+                        <p style="--bs-danger: #dc3545;--bs-danger-rgb: 220,53,69;--bs-primary: #dc3545;--bs-primary-rgb: 220,53,69;text-align: center;">The procedure is typically completed in three to four session and is the only hair loss remedy/hair loss solution with a guaranteed result. It is also the most cost-effective treatment when compared to hair transplants, hair units, and PRP treatments.&nbsp;</p>
+                        <p class="text-muted" style="font-weight: bold;text-align: center;">SMP also requires NO DOWNTIME. </p><a href="https://bladebeauty.ca/booking/" target="_blank"><button class="btn btn-danger" type="button" style="padding-top: 12px;padding-right: 18px;padding-bottom: 12px;padding-left: 18px;font-size: 18px;margin-top: 30px;margin-bottom: 30px;margin-right: 10px;text-align: center;"><i class="icon-calendar" style="font-size: 20px;"></i>Book Online</button></a><a href="tel:1-416-531-0111"><button class="btn btn-danger" type="button" style="padding-top: 12px;padding-right: 18px;padding-bottom: 12px;padding-left: 18px;font-size: 18px;margin-top: 30px;margin-bottom: 30px;text-align: center;"><i class="icon-screen-smartphone" style="font-size: 20px;"></i>1-416-531-0111</button></a>
+                    </div>
+                </div>
             </div>
         </section>
-		<section class="clean-block clean-services dark" style="text-align: center;margin-top: 20px;padding-bottom: 20px;background: rgb(255,255,255);">
+		<section class="clean-block clean-services dark" style="text-align: center;margin-top: 20px;padding-bottom: 0px;background: rgb(255,255,255);">
             <div class="container" style="border-radius: 8px;align-items: center;border: 5px solid rgb(24,37,144);">
                 <div class="row">
                     <div class="col-md-12" style="background: rgb(24,37,144);">
