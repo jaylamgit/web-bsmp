@@ -8,7 +8,7 @@
             <div class="container" style="border-radius: 8px;align-items: center;border: 5px none rgb(24,37,144);">
                 <div class="row" style="align-items: center;">
                     <div class="col-md-12 col-lg-12 col-xxl-12" style="padding-bottom: 20px;">
-						<div style="height: 600px;background: url(&quot;{{ asset('/static/img/blade-smp-home-ashley.jpg') }}&quot;) center / cover;border-radius: 8px;">
+						<div style="height: 450px;background: url(&quot;{{ asset('/static/img/blade-smp-home-ashley.jpg') }}&quot;) center / cover;border-radius: 8px;">
                     </div>
                 </div>
             </div>
